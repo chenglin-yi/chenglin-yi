@@ -1,8 +1,3 @@
-- Hi, I’m @chenglin-yi.
-- My main research is deep learning and knowledge tracking.
-- I will be uploading my reproduced results from some of my papers and sharing data from experiments that document myself here.
-
-<!---
-chenglin-yi/chenglin-yi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm a full-stack developer & AI engineer.
+My tech stack includes Python, Vue.js, and React Native.I focus on building full-stack applications and integrating AI capabilities into real-world projects.
+I enjoy writing clean, maintainable code and continuously exploring new technologies in web & AI development.
